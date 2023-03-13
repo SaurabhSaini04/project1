@@ -1,0 +1,12 @@
+table{
+    padding: 20px;
+}
+.first{
+    color: red;
+    background-color: black;
+    padding-left: 800px;
+
+}
+#second{
+    color: yellow;
+}
